@@ -7,6 +7,9 @@
 
 `WebpackBootstrapper` is an simple .BAT file to create a preconfigured, webpack framework so you don't have to worry about simple bundling....
 
+# Demo on Youtube
+ - https://youtu.be/m1zYOhrmdKk    Javascript example
+
 # 🔥 Features
 `WebpackBootstrapper` comes with a bundle of features already. You can do the followings with it,
 
