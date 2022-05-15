@@ -2,17 +2,8 @@
 <!-- ALL-CONTRIBUTORS-BADGE:START - Do not remove or modify this section -->
 [![All Contributors](https://img.shields.io/badge/all_contributors-5-orange.svg?style=flat-square)](#contributors-)
 <!-- ALL-CONTRIBUTORS-BADGE:END -->
-<p align="center">
-    <a href="https://tryshape.vercel.app/" target="_blank">
-        <img src="./public/readme/TryShape-GitHub-icon-only.png" alt="logo" width="125"/>
-    </a>
-    
-</p>
-<p align="center">
-<img src="./public/readme/tryshape-text-transparent.png" alt="name"/>
-</p>
 
-<h4 align="center">Create, Export, Share, and Use any Shapes of your choice.</h4>
+<h4 align="center">Simple Batch File that bootstraps a webpack project, either JS or TS</h4>
 
 <p align="center">
 <a href="https://github.com/TryShape/tryshape/blob/master/LICENSE" target="blank">
