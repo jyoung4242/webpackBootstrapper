@@ -50,7 +50,8 @@ import './styles.css'
  - including:
   - css-loader, ts-loader, html-webpack-plugin, json, dev-server, cli tools... etc 
 
-1. Download .bat file form repo
+##################
+1. Download .bat file from repo
 
 2. Change the new project directory
 
@@ -58,8 +59,8 @@ import './styles.css'
 
 4. run the bat file... this can be done out of vscode
 
- ```bash
- node> ./webpackstarter.bat
+```bash
+./webpackstarter.bat
 ```
 
 5. Answer the prompt, T or J
