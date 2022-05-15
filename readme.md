@@ -10,21 +10,23 @@
 `WebpackBootstrapper` is an simple .BAT file to create a preconfigured, webpack framework so you don't have to worry about simple bundling....
 
 # 🔥 Features
-`TryShape` comes with a bundle of features already. You can do the followings with it,
+`WebpackBootstrapper` comes with a bundle of features already. You can do the followings with it,
 
-## 🔢 Listing Shapes
- - List out shapes for you to pick and use.
+## 🔢 Basic project bundling
+ - Allows for JS or TS file bundling to a template.html file
 
-## 🏗️ Create Shapes
-- Create any shapes using an intuitive editor.
-- Create Polygonal, Circular, Elliptical shapes without knowing the underlying complexities like CSS clip-path.
-- Add/Remove vertices, join them, drag-drop to position them to create a shape.
-- Provide your choice of colors, add the contextual information as notes while creating the shapes.
-- Are you an expert in CSS clip-path? Great, you can add a clip-path value directly and start from there.
+## 🏗️ Import images
+- Allows for images to be imported as assets
 
-## 📢 Controlling the Visibility of Shapes
-- You can create a shape and share it with the TryShape community by making it public.
-- Do you want to keep your creativity private? No worries, that's possible too.
+```js
+import koala from './src/assets/koala.png'
+```
+
+## 📢 Allows for bundling of CSS too
+
+```js
+import styles from './src/styles.css'
+```
 
 ## 💘 Like Shapes
 - Liked a shape and want to add it to your shape collection? You can do that just with a click. Want to undo? That's supported as well.
