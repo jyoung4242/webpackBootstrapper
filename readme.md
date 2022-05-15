@@ -50,7 +50,7 @@ import './styles.css'
  - including:
   - css-loader, ts-loader, html-webpack-plugin, json, dev-server, cli tools... etc 
 
-##################
+## Getting Started!!!!
 1. Download .bat file from repo
 
 2. Change the new project directory
