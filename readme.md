@@ -1,6 +1,8 @@
 
 <h4 align="center">Simple Batch File that bootstraps a webpack project, either JS or TS</h4>
 
+![Screenshot](/bootstrap.png?raw=true "Screenshot")
+
 # 👋 Introducing `WebpackBootstrapper`
 
 `WebpackBootstrapper` is an simple .BAT file to create a preconfigured, webpack framework so you don't have to worry about simple bundling....
