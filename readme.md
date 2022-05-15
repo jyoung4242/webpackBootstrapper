@@ -53,7 +53,7 @@ import './styles.css'
 ## Getting Started!!!!
 1. Download .bat file from repo
 
-2. Change the new project directory
+2. Create new project directory and navigate to it in vscode (or your IDE of choice)
 
 3. Place BAT file into new project directory
 
