@@ -5,30 +5,9 @@
 
 <h4 align="center">Simple Batch File that bootstraps a webpack project, either JS or TS</h4>
 
-# 👋 Introducing `TryShape`
-<p align="center">
-    <a href="https://tryshape.vercel.app" target="blank"/>
-        <img src="./public/readme/landing.png" alt="landing" />
-    </a>
-</p>
+# 👋 Introducing `WebpackBootstrapper`
 
-`TryShape` is an opensource platform to create shapes of your choice using a simple, easy-to-use interface. You can create banners, circles, polygonal shapes, export them as SVG, PNG, and even as CSS.
-
-# 🚀 Demo
-Here is a quick demo of the app. We hope you enjoy it.
-
-> [The Demo Link](https://www.youtube.com/watch?v=CB9xkhzkrYE)
-
-Liked it? Please give a ⭐️ to <b>TryShape</b> to build its triceps 💪 stronger.
-
-### Many Thanks to all the `Stargazers` who has supported this project with stars(⭐)
-
-[![Stargazers repo roster for @TryShape/tryshape](https://reporoster.com/stars/TryShape/tryshape)](https://github.com/TryShape/tryshape/stargazers)
-
-# 💻 Use TryShape
-Please access TryShape using the URL:
-
-> https://tryshape.vercel.app/
+`WebpackBootstrapper` is an simple .BAT file to create a preconfigured, webpack framework so you don't have to worry about simple bundling....
 
 # 🔥 Features
 `TryShape` comes with a bundle of features already. You can do the followings with it,
