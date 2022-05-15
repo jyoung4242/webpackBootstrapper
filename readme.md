@@ -9,6 +9,7 @@
 
 # Demo on Youtube
  - https://youtu.be/m1zYOhrmdKk    Javascript example
+ - https://youtu.be/IRboPZac_Q8    Typescript example
 
 # 🔥 Features
 `WebpackBootstrapper` comes with a bundle of features already. You can do the followings with it,
