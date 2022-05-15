@@ -43,6 +43,7 @@ import './styles.css'
 ## ✨ Builds to Javascript or TypeScript
 - Prompts user for a 'J' or a 'T' at the beginning, and does all the rest for you!!!!
 - Creates default webpack.config.js, package.json, and tsconfig.json files for you!
+- Builds src and build folder structure, so YOU DON'T HAVE TO YEAH!!!!
 
 ## 🔍 no NPM mining
 - all the NPM dev dependencies are automated
