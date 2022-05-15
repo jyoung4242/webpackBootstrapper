@@ -43,7 +43,7 @@ import './styles.css'
 ```
 
 ## ✨ Builds to Javascript or TypeScript
-- Promts user for a 'J' or a 'T' at the beginning, and does all the rest for you!!!!
+- Prompts user for a 'J' or a 'T' at the beginning, and does all the rest for you!!!!
 
 ## 🔍 no NPM mining
 - all the NPM dev dependencies are automated
