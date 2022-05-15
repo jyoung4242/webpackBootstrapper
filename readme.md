@@ -1,4 +1,6 @@
 
+[![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40jyoung424242)](https://twitter.com/jyoung424242)
+
 <h4 align="center">Simple Batch File that bootstraps a webpack project, either JS or TS</h4>
 
 ![Screenshot](/bootstrap.png?raw=true "Screenshot")
