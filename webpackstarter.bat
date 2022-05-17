@@ -82,6 +82,9 @@ echo       path: path.resolve(__dirname, './build'),>>webpack.config.js
 echo       filename: '[name].bundle.js'>>webpack.config.js 
 echo     },>>webpack.config.js 
 echo   mode: mode,>>webpack.config.js
+echo   devServer: {,>>webpack.config.js
+echo      static: './build',>>webpack.config.js
+echo   },>>webpack.config.js
 echo   module: {>>webpack.config.js 
 echo     rules: [>>webpack.config.js 
 echo     {>>webpack.config.js 
@@ -161,7 +164,7 @@ echo /*style.css*/ >style.css
 
 cd ..
 call npx json -I -f package.json -e "this.scripts.build=\"webpack\""
-call npx json -I -f package.json -e "this.scripts.start=\"webpack serve\""
+call npx json -I -f package.json -e "this.scripts.start=\"webpack serve --open\""
 
 
 
