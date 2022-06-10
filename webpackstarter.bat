@@ -82,7 +82,7 @@ echo       path: path.resolve(__dirname, './build'),>>webpack.config.js
 echo       filename: '[name].bundle.js'>>webpack.config.js 
 echo     },>>webpack.config.js 
 echo   mode: mode,>>webpack.config.js
-echo   devServer: {,>>webpack.config.js
+echo   devServer: {>>webpack.config.js
 echo      static: './build',>>webpack.config.js
 echo   },>>webpack.config.js
 echo   module: {>>webpack.config.js 
