@@ -1,7 +1,7 @@
 
 [![Twitter URL](https://img.shields.io/twitter/url/https/twitter.com/bukotsunikki.svg?style=social&label=Follow%20%40jyoung424242)](https://twitter.com/jyoung424242)
 
-<h4 align="center">Simple Batch File that bootstraps a webpack project, either JS or TS</h4>
+<h4 align="center">Simple Batch File that bootstraps a webpack project, either JS or TS OR NOW REACT!!!!</h4>
 
 ![Screenshot](/bootstrap.png?raw=true "Screenshot")
 
@@ -17,7 +17,7 @@
 `WebpackBootstrapper` comes with a bundle of features already. You can do the followings with it,
 
 ## 🔢 Basic project bundling
- - Allows for JS or TS file bundling to a template.html file
+ - Allows for JS or TS or React file bundling to a template.html file
 
 ## 🏗️ Import images
 - Allows for images to be imported as assets
@@ -46,8 +46,8 @@ import './styles.css'
 </html>
 ```
 
-## ✨ Builds to Javascript or TypeScript
-- Prompts user for a 'J' or a 'T' at the beginning, and does all the rest for you!!!!
+## ✨ Builds to Javascript or TypeScript or React project
+- Prompts user for a 'J' or a 'T' OR 'R' NOW!!!! at the beginning, and does all the rest for you!!!!
 - Creates default webpack.config.js, package.json, and tsconfig.json files for you!
 - Builds src and build folder structure, so YOU DON'T HAVE TO YEAH!!!!
 
@@ -69,9 +69,9 @@ import './styles.css'
 ./webpackstarter.bat
 ```
 
-5. Answer the prompt, T or J
+5. Answer the prompt, T or J or R (for react)
 6. go get a coffee, process takes about 90 seconds
-7. Run dev server or build
+7. Run dev server or build (automatically launches now and opens browser)
 
 ```bash
 npm run start
