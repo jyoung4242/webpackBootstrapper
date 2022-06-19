@@ -46,6 +46,21 @@ import './styles.css'
 </html>
 ```
 
+or for React projects
+
+```html
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="UTF-8" />
+        <title>Hello World</title>
+    </head>
+    <body>
+        <div id="app"></div>
+    </body>
+</html>
+```
+
 ## ✨ Builds to Javascript or TypeScript or React project
 - Prompts user for a 'J' or a 'T' OR 'R' NOW!!!! at the beginning, and does all the rest for you!!!!
 - Creates default webpack.config.js, package.json, and tsconfig.json files for you!
