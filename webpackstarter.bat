@@ -213,6 +213,13 @@ echo } >>App.js
 cd ..
 
 :J6
+
+echo creating .gitignore file
+
+echo node_modules>.gitignore
+echo build>>.gitignore
+echo webpackstarter.bat>>.gitignore
+
 echo creating /src/template.html
 
 cd src
