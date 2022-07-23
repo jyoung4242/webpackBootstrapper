@@ -66,6 +66,13 @@ GOTO NEXT2
 echo creating /src/index.ts
 echo import './style.css';>index.ts
 echo console.log(`Hello World`);>>index.ts
+
+echo //include all image types for TS importing>imgtypes.d.ts
+echo declare module "*.jpg";>imgtypes.d.ts
+echo declare module "*.jpeg";>imgtypes.d.ts
+echo declare module "*.png";>imgtypes.d.ts
+
+
 GOTO NEXT2
 
 :J2
