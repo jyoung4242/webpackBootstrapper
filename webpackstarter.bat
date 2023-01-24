@@ -177,7 +177,7 @@ echo    "outDir": "./build/",>>tsconfig.json
 echo    "sourceMap": true, >>tsconfig.json
 echo    "noImplicitAny": true,>>tsconfig.json
 echo    "module": "es6",>>tsconfig.json
-echo    "target": "es5",>>tsconfig.json
+echo    "target": "es6",>>tsconfig.json
 echo    "jsx": "react",>>tsconfig.json
 echo    "allowJs": true,>>tsconfig.json
 echo    "moduleResolution": "node">>tsconfig.json
